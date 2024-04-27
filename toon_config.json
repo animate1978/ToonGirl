@@ -1,0 +1,59 @@
+{
+  "templates_list": [
+    "toon_female_base"
+  ],
+  "character_list": [
+    "f_tn01"
+  ],
+  "f_tn01": {
+    "description": "Toon Girl Prototype",
+    "template_model": "MBLab_toon_female",
+    "name": "f_tn01",
+    "label": "Toon Girl (F_TN01) (CC0)",
+    "texture_albedo": "",
+    "texture_bump": "",
+    "texture_displacement": "",
+    "texture_eyes": "",
+    "texture_tongue_albedo": "",
+    "texture_teeth_albedo": "",
+    "texture_nails_albedo": "",
+    "texture_eyelash_albedo": "",
+    "texture_frecklemask": "",
+    "texture_blush": "",
+    "texture_sebum": "",
+    "texture_roughness": "",
+    "texture_thickness": "",
+    "texture_melanin": "",
+    "texture_iris_color": "",
+    "texture_iris_bump": "",
+    "texture_lipmap": "",
+    "texture_sclera_color": "",
+    "texture_translucent_mask": "",
+    "texture_sclera_mask": "",
+    "morphs_extra_file": "",
+    "shared_morphs_file": "",
+    "shared_morphs_extra_file": "",
+    "bounding_boxes_file": "",
+    "proportions_folder": "to_f_anthropometry",
+    "joints_base_file": "tn01_joints.json",
+    "joints_offset_file": "",
+    "measures_file": "toon_measures.json",
+    "presets_folder": "",
+    "transformations_file": "toon_female_toon_transf.json",
+    "vertexgroup_base_file": "toon_vgroups_base.json",
+    "skeleton_base_template_name": "MBLab_skeleton_base_fk",
+    "vertexgroup_muscle_file": "",
+    "null": "",
+    "data_directory": "toon"
+  },
+  "toon_female_base": {
+    "description": "Generate Toon Girl template",
+    "template_model": "MBLab_toon_female",
+    "template_polygons": "toon_female_polygs.json",
+    "name": "toon_female_base",
+    "vertices": 31556,
+    "faces": 31468,
+    "label": "Toon Girl",
+    "data_directory": "toon"
+  }
+}

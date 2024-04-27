@@ -1,0 +1,231 @@
+{
+  "body_height_Z_parts": [
+    "head_height_Z",
+    "neck_height_Z",
+    "torso_height_Z",
+    "buttock_height_Z",
+    "upperleg_length",
+    "lowerleg_length",
+    "feet_height_Z"
+  ],
+  "measures": {
+    "upperleg_length": [],
+    "buttock_depth_Y": [],
+    "buttock_width_X": [],
+    "wrist_girth": [],
+    "upperarm_axillary_girth": [],
+    "neck_girth": [],
+    "lowerleg_length": [],
+    "lowerleg_bottom_girth": [],
+    "head_height_Z": [],
+    "feet_length": [],
+    "lowerleg_calf_girth": [],
+    "feet_heel_width": [],
+    "torso_height_Z": [],
+    "upperleg_top_girth": [],
+    "shoulders_width": [],
+    "feet_height_Z": [],
+    "waist_girth": [],
+    "elbow_girth": [],
+    "head_width_X": [],
+    "chest_depth_Y": [],
+    "upperleg_bottom_girth": [],
+    "forearm_length": [],
+    "buttock_height_Z": [],
+    "hands_width": [],
+    "hands_length": [],
+    "chest_girth": [],
+    "upperarm_length": [],
+    "feet_width": [],
+    "body_height_Z": [],
+    "neck_height_Z": [],
+    "head_length": [],
+    "buttock_girth": [],
+    "chest_width_X": []
+  },
+  "relations": [
+    [
+      "body_height_Z",
+      "Body_Size"
+    ],
+    [
+      "torso_height_Z",
+      "Torso_Length"
+    ],
+    [
+      "chest_width_X",
+      "Chest_SizeX"
+    ],
+    [
+      "chest_depth_Y",
+      "Chest_SizeY"
+    ],
+    [
+      "chest_girth",
+      "Chest_Girth"
+    ],
+    [
+      "neck_girth",
+      "Neck_Size"
+    ],
+    [
+      "neck_girth",
+      "Neck_Back"
+    ],
+    [
+      "head_width_X",
+      "Head_SizeX"
+    ],
+    [
+      "head_length",
+      "Head_SizeY"
+    ],
+    [
+      "head_height_Z",
+      "Head_SizeZ"
+    ],
+    [
+      "neck_height_Z",
+      "Neck_Length"
+    ],
+    [
+      "shoulders_width",
+      "Shoulders_SizeX"
+    ],
+    [
+      "buttock_height_Z",
+      "Pelvis_Length"
+    ],
+    [
+      "buttock_depth_Y",
+      "Pelvis_SizeY"
+    ],
+    [
+      "buttock_width_X",
+      "Pelvis_SizeX"
+    ],
+    [
+      "buttock_girth",
+      "Pelvis_Girth"
+    ],
+    [
+      "waist_girth",
+      "Stomach_LocalFat"
+    ],
+    [
+      "waist_girth",
+      "Stomach_Volume"
+    ],
+    [
+      "upperleg_length",
+      "Legs_UpperlegLength"
+    ],
+    [
+      "lowerleg_length",
+      "Legs_LowerlegLength"
+    ],
+    [
+      "upperleg_top_girth",
+      "Legs_UpperlegSize"
+    ],
+    [
+      "upperleg_top_girth",
+      "Legs_UpperThighGirth"
+    ],
+    [
+      "upperleg_bottom_girth",
+      "Legs_LowerThighGirth"
+    ],
+    [
+      "lowerleg_calf_girth",
+      "Legs_CalfGirth"
+    ],
+    [
+      "lowerleg_bottom_girth",
+      "Legs_AnkleSize"
+    ],
+    [
+      "upperarm_axillary_girth",
+      "Arms_UpperarmGirth"
+    ],
+    [
+      "upperarm_axillary_girth",
+      "Shoulders_Size"
+    ],
+    [
+      "upperarm_length",
+      "Arms_UpperarmLength"
+    ],
+    [
+      "forearm_length",
+      "Arms_ForearmLength"
+    ],
+    [
+      "elbow_girth",
+      "Elbows_Size"
+    ],
+    [
+      "wrist_girth",
+      "Wrists_Size"
+    ],
+    [
+      "feet_width",
+      "Feet_SizeX"
+    ],
+    [
+      "feet_length",
+      "Feet_SizeY"
+    ],
+    [
+      "feet_height_Z",
+      "Feet_SizeZ"
+    ],
+    [
+      "hands_length",
+      "Hands_Length"
+    ],
+    [
+      "hands_width",
+      "Hands_FingersInterDist"
+    ],
+    [
+      "feet_heel_width",
+      "Feet_HeelWidth"
+    ]
+  ],
+  "score_weights": {
+    "upperleg_length": 1,
+    "buttock_depth_Y": 1,
+    "buttock_width_X": 1,
+    "wrist_girth": 1,
+    "upperarm_axillary_girth": 3,
+    "lowerleg_length": 1,
+    "lowerleg_bottom_girth": 3,
+    "head_height_Z": 1,
+    "feet_length": 0.5,
+    "lowerleg_calf_girth": 3,
+    "feet_heel_width": 0.5,
+    "torso_height_Z": 1,
+    "upperleg_top_girth": 3,
+    "shoulders_width": 2,
+    "feet_height_Z": 0.5,
+    "waist_girth": 3,
+    "elbow_girth": 3,
+    "head_width_X": 1,
+    "chest_depth_Y": 1,
+    "neck_girth": 0.5,
+    "forearm_length": 1,
+    "head_length": 1,
+    "buttock_height_Z": 1,
+    "hands_length": 0.5,
+    "hands_width": 0.5,
+    "chest_girth": 3,
+    "upperarm_length": 1,
+    "feet_width": 0.5,
+    "body_height_Z": 1,
+    "neck_height_Z": 1,
+    "upperleg_bottom_girth": 3,
+    "buttock_girth": 3,
+    "chest_width_X": 1
+  }
+}

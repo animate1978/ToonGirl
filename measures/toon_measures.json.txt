@@ -1,0 +1,9 @@
+[
+  "Header : Check inconstancies in file toon_measures.json",
+  "Measures file : toon_measures.json",
+  "Morph file : toon_morphs.json",
+  "---------------",
+  "Check morph file content :",
+  "All measures correspond to a valid morph.",
+  "---------------"
+]
